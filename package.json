@@ -1,0 +1,27 @@
+{
+  "name": "PWA_Progress_Budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avery1221/PWA_Progress_Budget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avery1221/PWA_Progress_Budget/issues"
+  },
+  "homepage": "https://github.com/avery1221/PWA_Progress_Budget#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11",
+    "morgan": "^1.10.0"
+  }
+}
